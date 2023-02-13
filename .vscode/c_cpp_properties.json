@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Vitis",
+            "includePath": [
+                "${workspaceFolder}/common/includes/**",
+                "${workspaceFolder}/src/hls",
+                "${XILINX_XRT}/include",
+                "${XILINX_VITIS}/include",
+                "${XILINX_HLS}/include",
+                "${XILINX_VIVADO}/include"
+            ],
+            "compilerPath": "/usr/bin/g++"
+        }
+    ],
+    "version": 4
+}

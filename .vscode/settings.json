@@ -1,0 +1,13 @@
+{
+    "files.watcherExclude": {
+        "**/.run/": true,
+        "**/.Xil/": true,
+    },
+    "files.associations": {
+        "*.sage": "python",
+        "*.xdc": "tcl",
+        "*.cfg": "tcl",
+        ".svlint.toml": "rust",
+        "*.protoinst": "json",
+    },
+}
